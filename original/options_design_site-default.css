@@ -1,0 +1,27 @@
+/* СЌР»РµРјРµРЅС‚С‹ С„РѕСЂРјС‹ */
+input { border:2px solid #1c94c4; background:#e0e0eb; color: #000033; border-radius: 10px; padding: 2px 7px;
+width: 87%; margin: 1% 8% 3% 5%; text-align: left;
+}
+input:focus { color: #000033; background: #fff;}
+
+
+input[type="button"] { width: auto; background: #1c94c4; color: #fff;  }
+input[type="button"]:hover {background: #fff; color: #1c94c4; border: 2px solid #1c94c4; }
+
+select { border:2px solid #1c94c4; background:#e0e0eb; color: #000033; border-radius: 10px; padding: 2px 7px; cursor: pointer; }
+select:focus { background: #1c94c4; color: #fff;}
+option { border:2px solid #1c94c4; background: #fff; color: #000033; border-radius: 10px; padding: 2px 7px; cursor: pointer; }
+
+textarea { padding: 10px; width: 90px; margin: 0 auto; margin-top: 10px; margin-bottom: 2px; border-radius: 10px; border:2px solid #1c94c4; background: #fff; color: #000033; }
+
+
+/** РєРЅРѕРїРєР° */
+button { border:2px solid #1c94c4; background: #fff; color: #000033; border-radius: 10px; padding: 3px 7px;  }
+button:hover { background: #1c94c4; color: #000033; cursor: pointer;  }
+
+
+h1, h2, h3, h4, h5, h6 { color: #000033; margin:0; text-align: center; margin-bottom:2px;  }
+
+a { text-decoration: none; color: #0a2da2; }
+a:hover { text-decoration: underline; color: #009900;}
+

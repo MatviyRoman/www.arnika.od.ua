@@ -1,0 +1,18 @@
+.TopMenuAdmin {
+}
+/** position: absolute; position: relative; */
+.but-menu-admin { float:left;   z-index: 999; background: #fff; padding: 5px 15px; border: 1px solid #3e3e3e; height: 25px; overflow: hidden; }
+.but-menu-admin:hover { height: auto; min-height: 25px; background: #869791; }
+.but-menu-admin a { color: #000033; text-decoration: none; }
+.menu-dop-block { z-index: 1000; display: none; position: absolute; text-align: left; padding: 15px; background: #fff; border: 1px solid #363636; }
+.menu-dop-block a:hover { color: #0000CC; }
+#all-clinic:hover #all-clinic-block { display: block;}
+#all-site:hover #all-site-block { display: block;}
+#options-site:hover #options-site-block { display: block;}
+
+
+
+/** menu topUserAuch */
+.topUserAuch { background: black; margin:0; padding: 0; z-index: 9500; position: absolute; top: 0; left:0; width: 100%; }
+.topUserAuch a { color: #fff; font-size: 85%; text-decoration: none; font-family: HelveticaUltraLight; letter-spacing: 0.14em; }
+.topUserAuch a:hover { color: #ccc; text-decoration: underline;}

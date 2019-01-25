@@ -1,0 +1,8 @@
+
+
+/* РѕР±С‰РёР№ РґРёР·Р°Р№ С€Р°Р±Р»РѕРЅР° РѕС‚РѕР±СЂР°Р¶РµРЅРёСЏ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ РєР»РёРЅРёРєРё */
+
+.user_all { width: 30%; max-width: 300px; min-width: 210px; height: 400px; padding: 10px; margin: 5px 5px 25px 5px; float: left; transition: all .3s ease-out; cursor: pointer; }
+.user_all:hover { box-shadow: 2px 2px 4px 4px #999; }
+
+.img_foto-personal {  height: auto; width: auto; max-height:300px; max-width: 98%;  }

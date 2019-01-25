@@ -1,0 +1,13 @@
+
+
+.left-column { float: left; width: 25%; max-width: 250px; padding: 12px; margin: 5px 5px 10px 0; }
+.right-column { float: right; width: 25%; max-width: 250px; padding: 12px; margin: 5px 5px 10px 0;}
+
+.center-column { float: left; width: 45%;}
+
+
+.MainPage_leftMenu {}
+
+.bottom-LeftMenu_MainPage { padding: 2px 5px; margin-top: 2px; border: #222222 solid 2px; background: #667dac; color: black; font-size: 150%;}
+
+.bottom-LeftMenu_MainPage:hover { color: #0000CC; border:2px solid #0000CC;}
